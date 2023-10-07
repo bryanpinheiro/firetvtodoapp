@@ -172,7 +172,7 @@ fun TaskItemRow(task: Task, onDeleteTask: (Task) -> Unit) {
     }
 }
 
-@Preview(showBackground = true, widthDp = 1920, heightDp = 1080)
+@Preview(showBackground = true, widthDp = 1280, heightDp = 720)
 @Composable
 fun PreviewTodoApp() {
     val tasks = emptyList<Task>() // Initialize with an empty list
