@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Firetvtodoapp" parent="@style/Theme.Leanback" />
+</resources>
